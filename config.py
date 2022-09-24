@@ -9,8 +9,9 @@ load_dotenv()
 que = {}
 admins = {}
 
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
+API_ID = int(getenv("API_ID", "12394287"))
+API_HASH = getenv("API_HASH", "adf9d0f1457cbe17c24576432b38c476
+")
 BOT_TOKEN = getenv("BOT_TOKEN", "5678409854:AAG8C9OAqmHpEO8s4AlYBuSZAHSimUmqgEw")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "t.me/yerigetdeeeee")
 BOT_USERNAME = getenv("BOT_USERNAME", "KazimovaMusicBot")
